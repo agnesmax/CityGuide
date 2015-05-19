@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CityGuide</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="type_image">Type Image</string>
+    <string name="unknown_type">Unknown Type</string>
+    <string name="star">Star</string>
+    <string name="bar">Bar</string>
+    <string name="bistro">Bistro</string>
+    <string name="cafe">Cafe</string>
+    <string name="distance">$1%s mi</string>
+
+</resources>
